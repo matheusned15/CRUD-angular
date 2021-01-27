@@ -1,0 +1,22 @@
+.hearder {
+    display: flex;
+    align-items: center;
+}
+
+.hearder a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.hearder .logo {
+    max-height: 32px;
+}
+
+.hearder .title-group {
+    padding-left: 25px;
+}
+
+.hearder .title-group {
+    padding-right: 5px;
+}
